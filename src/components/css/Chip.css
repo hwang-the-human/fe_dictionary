@@ -1,0 +1,13 @@
+.chip {
+  width: min-content;
+  padding: 6px 12px 6px 12px;
+  box-sizing: border-box;
+  background-color: lightgray;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.chip:hover {
+  background-color: #c35f76;
+  color: white;
+}
